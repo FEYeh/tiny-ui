@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{1043:function(e,n,i){"use strict";i.r(n);var p=i(200),c=i(2);n.default=Object(p.a)({componentName:"flip",examples:["basic","direction"],dependencies:{Flip:c.h}})}}]);
+//# sourceMappingURL=20.a249a394.chunk.js.map
