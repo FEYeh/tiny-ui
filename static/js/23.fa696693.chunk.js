@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{1053:function(e,n,o){"use strict";o.r(n);var c=o(200),p=o(2);n.default=Object(c.a)({componentName:"popconfirm",examples:["basic","placement","locale"],dependencies:{Popconfirm:p.o,Button:p.d}})}}]);
-//# sourceMappingURL=23.fa696693.chunk.js.map
