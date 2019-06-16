@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{1051:function(e,a,n){"use strict";n.r(a);var s=n(202),c=n(2);a.default=Object(s.a)({componentName:"native-select",examples:["basic","size","group","disabled"],dependencies:{NativeSelect:c.p}})}}]);
-//# sourceMappingURL=23.a6499032.chunk.js.map
