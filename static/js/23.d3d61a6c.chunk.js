@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{1069:function(o,e,n){"use strict";n.r(e);var a=n(202),t=n(2);e.default=Object(a.a)({componentName:"modal",examples:["basic","custom-footer","position","animation"],dependencies:{Button:t.d,Modal:t.p}})}}]);
+//# sourceMappingURL=23.d3d61a6c.chunk.js.map
