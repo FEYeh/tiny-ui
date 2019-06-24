@@ -12,20 +12,20 @@ self.__precacheManifest = [
     "url": "/static/media/count.be15f5c0.md"
   },
   {
-    "revision": "ad9c6e8a6c6a5965288e",
-    "url": "/static/js/2.a69a707d.chunk.js"
+    "revision": "c1ab20478d2bf225776c",
+    "url": "/static/js/2.c985bed0.chunk.js"
   },
   {
     "revision": "a676444f15825c478feef67b37fb4f3a",
     "url": "/static/media/basic.a676444f.md"
   },
   {
-    "revision": "efd2091912918e166ca7",
-    "url": "/static/js/main.1bc820a1.chunk.js"
+    "revision": "febfe69815a6e1eb6cc0",
+    "url": "/static/js/main.aa100442.chunk.js"
   },
   {
-    "revision": "3cc78705e8874ba8442a",
-    "url": "/static/js/runtime~main.d911e898.js"
+    "revision": "f3e9eec80ecc558f586c",
+    "url": "/static/js/runtime~main.b697eefd.js"
   },
   {
     "revision": "a52f90b10450b1c0e0c1",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/js/6.92cc84df.chunk.js"
   },
   {
-    "revision": "49b1498b4fcccf51457b2e0ad1440391",
-    "url": "/static/media/dynamic.49b1498b.md"
+    "revision": "40891ee114ab4344bf264dec69890dad",
+    "url": "/static/media/dynamic.40891ee1.md"
   },
   {
     "revision": "5d9d18e105557a7c745b",
@@ -196,12 +196,12 @@ self.__precacheManifest = [
     "url": "/static/media/iconfont.49f70d86.woff"
   },
   {
-    "revision": "849b12144232cfd3cb3c4a1821752c15",
-    "url": "/static/media/iconfont.849b1214.ttf"
-  },
-  {
     "revision": "ba54db19c42b60e19f4c27c809b56bdf",
     "url": "/static/media/iconfont.ba54db19.eot"
+  },
+  {
+    "revision": "849b12144232cfd3cb3c4a1821752c15",
+    "url": "/static/media/iconfont.849b1214.ttf"
   },
   {
     "revision": "0086b140b7a27af7e79cc0be22a3b32f",
@@ -724,7 +724,7 @@ self.__precacheManifest = [
     "url": "/static/css/12.635bd2e4.chunk.css"
   },
   {
-    "revision": "ad9c6e8a6c6a5965288e",
+    "revision": "c1ab20478d2bf225776c",
     "url": "/static/css/2.71176907.chunk.css"
   },
   {
@@ -744,7 +744,7 @@ self.__precacheManifest = [
     "url": "/static/css/6.71176907.chunk.css"
   },
   {
-    "revision": "efd2091912918e166ca7",
+    "revision": "febfe69815a6e1eb6cc0",
     "url": "/static/css/main.105dfe8b.chunk.css"
   },
   {
@@ -764,7 +764,7 @@ self.__precacheManifest = [
     "url": "/../../core/lib/input-password/index.d.ts"
   },
   {
-    "revision": "d973cc0b0d3ddb54e23fa49673646180",
+    "revision": "398b4234d8a39aeaee212628b6b99ef8",
     "url": "/index.html"
   },
   {
@@ -1028,11 +1028,11 @@ self.__precacheManifest = [
     "url": "/../../core/lib/switch/index.d.ts"
   },
   {
-    "revision": "eaf61b9c022ea03b1112dc65bd9c3279",
+    "revision": "104e722b463e1b38fef1e812efb29c79",
     "url": "/../../core/lib/tag/checkable-tag.d.ts"
   },
   {
-    "revision": "28ab4343a12391e7dbe89565791cc1a1",
+    "revision": "f914533326dd9ea88c4e74215a399508",
     "url": "/../../core/lib/tag/index.d.ts"
   },
   {
