@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{1084:function(e,n,t){"use strict";t.r(n);var o=t(202),a=t(2);n.default=Object(o.a)({componentName:"button",examples:["basic","duration"],dependencies:{Button:a.e}})}}]);
-//# sourceMappingURL=17.b0e758df.chunk.js.map
