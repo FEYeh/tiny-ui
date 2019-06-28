@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{1101:function(e,n,c){"use strict";c.r(n);var o=c(202),a=c(3);n.default=Object(o.a)({componentName:"tag",examples:["basic","dynamic","checkable","color","controlled"],dependencies:{Button:a.e,Tag:a.D,Input:a.n,Icon:a.m}})}}]);
+//# sourceMappingURL=37.53e97355.chunk.js.map

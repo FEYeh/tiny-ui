@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{1097:function(e,n,s){"use strict";s.r(n);var p=s(202),a=s(3);n.default=Object(p.a)({componentName:"input-password",examples:["basic"],dependencies:{InputPassword:a.n}})}}]);
-//# sourceMappingURL=22.dbfb2546.chunk.js.map
