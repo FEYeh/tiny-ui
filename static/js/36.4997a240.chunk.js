@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{1114:function(e,n,t){"use strict";t.r(n);var i=t(202),s=t(3);n.default=Object(i.a)({componentName:"switch",examples:["basic","text","size","loading","disabled"],dependencies:{Switch:s.A,Button:s.e}})}}]);
+//# sourceMappingURL=36.4997a240.chunk.js.map

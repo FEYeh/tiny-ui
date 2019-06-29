@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{1097:function(e,s,a){"use strict";a.r(s);var n=a(202),o=a(3);s.default=Object(n.a)({componentName:"collapse",examples:["basic","accordion","nested","borderless","deletable"],dependencies:{Collapse:o.h}})}}]);
-//# sourceMappingURL=19.ed110180.chunk.js.map

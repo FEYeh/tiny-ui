@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{1095:function(e,n,o){"use strict";o.r(n);var a=o(202),c=o(3);n.default=Object(a.a)({componentName:"badge",examples:["basic","overflow","standalone","dot","custom"],dependencies:{Button:c.e,Badge:c.c,Icon:c.m}})}}]);
-//# sourceMappingURL=15.fdf80916.chunk.js.map

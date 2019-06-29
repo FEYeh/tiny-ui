@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{1115:function(n,e,o){"use strict";o.r(e);var t=o(202),i=o(3);e.default=Object(t.a)({componentName:"notification",examples:["basic","type","icon","duration","placement"],dependencies:{Button:i.e,Notification:i.v,Icon:i.m}})}}]);
-//# sourceMappingURL=30.1872eb61.chunk.js.map
