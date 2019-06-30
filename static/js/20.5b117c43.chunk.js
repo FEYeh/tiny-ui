@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{1103:function(n,e,o){"use strict";o.r(e);var c=o(202),s=o(3);e.default=Object(c.a)({componentName:"countdown",examples:["basic","millisecond"],dependencies:{Countdown:s.h}})}}]);
-//# sourceMappingURL=20.5b117c43.chunk.js.map

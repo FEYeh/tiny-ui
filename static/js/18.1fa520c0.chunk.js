@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{1108:function(e,c,n){"use strict";n.r(c);var o=n(202),a=n(3);c.default=Object(o.a)({componentName:"checkbox",examples:["basic","group","check-all","disabled"],dependencies:{Checkbox:a.f,Button:a.e}})}}]);
-//# sourceMappingURL=18.1fa520c0.chunk.js.map

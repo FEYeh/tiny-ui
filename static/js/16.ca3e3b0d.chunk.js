@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{1098:function(e,c,n){"use strict";n.r(c);var a=n(202),o=n(3);c.default=Object(a.a)({componentName:"breadcrumb",examples:["basic","icon"],dependencies:{Breadcrumb:o.d,Icon:o.l}})}}]);
-//# sourceMappingURL=16.ca3e3b0d.chunk.js.map
