@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{1113:function(e,n,c){"use strict";c.r(n);var i=c(202),o=c(3);n.default=Object(i.a)({componentName:"timeline",examples:["basic","customise","color","center"],dependencies:{Timeline:o.E,Icon:o.m}})}}]);
-//# sourceMappingURL=39.6b38d479.chunk.js.map
