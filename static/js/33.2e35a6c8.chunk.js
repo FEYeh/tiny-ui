@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{1112:function(e,r,s){"use strict";s.r(r);var n=s(202),t=s(3);r.default=Object(n.a)({componentName:"progress",examples:["progress-bar","progress-circle","internal-text","active","linear-gradient","dynamic","custom-text","reverse","square-linecaps"],dependencies:{Progress:t.y,Button:t.e}})}}]);
-//# sourceMappingURL=33.2e35a6c8.chunk.js.map

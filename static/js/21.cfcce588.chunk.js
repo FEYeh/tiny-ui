@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{1131:function(e,i,n){"use strict";n.r(i);var a=n(202),t=n(3);i.default=Object(a.a)({componentName:"divider",examples:["horizontal","vertical","align-title"],dependencies:{Divider:t.i}})}}]);
-//# sourceMappingURL=21.cfcce588.chunk.js.map
