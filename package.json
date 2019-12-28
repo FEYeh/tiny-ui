@@ -1,11 +1,11 @@
 {
-  "name": "tiny-ui",
-  "version": "0.0.74",
+  "name": "diminuto-ui",
+  "version": "0.0.1",
   "description": "A friendly ui component set for react",
   "license": "MIT",
   "keywords": [
-    "tiny",
-    "tiny-ui",
+    "diminuto",
+    "diminuto-ui",
     "design",
     "react",
     "react-component",
@@ -18,10 +18,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wangdicoder/tiny-ui.git"
+    "url": "https://github.com/FEYeh/tiny-ui"
   },
-  "author": "Di Wang<wangdicoder@gmail.com>",
-  "homepage": "https://tiny-ui.dev/",
+  "author": "FEYeh<chrisyehzz@gmail.com>",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "scripts": {

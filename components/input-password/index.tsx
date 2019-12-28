@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
 import classNames from 'classnames';
-import Input from '../input';
+import Input, { InputProps } from '../input';
 import Icon from '../icon';
-import { BaseProps } from '../_utils/props';
 
-export interface InputPasswordProps extends BaseProps {
+export interface InputPasswordProps extends InputProps {
   suffix?: boolean;
   visibleOnClick?: () => void;
   children?: React.ReactNode;
